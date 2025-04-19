@@ -19,3 +19,6 @@ git clone https://github.com/yourusername/moodlens-backend.git
 cd moodlens-backend
 npm install
 npm start
+```
+
+PS: Don't forget to go to settings (at the bottom) and change to dark mode. 
